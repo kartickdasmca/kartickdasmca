@@ -5,7 +5,7 @@
 
 ## 💼 What I Do
 
-- 🔧 Built multiple end-to-end implementation of features across large-scale applications from requirement analysis to delivery.
+- 🔧 Built end-to-end implementation of features across large-scale applications from requirement analysis to delivery.
 - 💡 Focused on performance optimization, accessibility, and responsive UI
 - 🔁 Handle task delegation, code reviews, and client communication when working in high-volume scenarios.
 - 🤝 Enjoy collaborating with cross-functional teams and mentoring juniors
