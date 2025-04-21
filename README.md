@@ -19,7 +19,7 @@
 
 ## 🛠️ Technologies I Work With
 
-- **Frontend:** React.js, JavaScript (ES6+), TypeScript, Redux, Next JS , HTML5, CSS3, Tailwind CSS
+- **Frontend:** React.js, JavaScript (ES6+), TypeScript, Redux, Next JS , HTML5, CSS3, SCSS, Tailwind CSS
 - **Backend:** Node.js, Express.js, PHP (Laravel - last used 2020)
 - **Database:** MongoDB, MySQL
 - **DevOps & Tools:** Git, Docker, Postman, VS Code, GitHub Actions
