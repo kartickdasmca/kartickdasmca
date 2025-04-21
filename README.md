@@ -25,6 +25,10 @@
 - **DevOps & Tools:** Git, Docker, Postman, VS Code, GitHub Actions
 - **Other:** Rest API , Socket.io, Agile
 
+## 📚 Learning
+
+I'm currently pursuing an **Advanced Certification in Cloud Computing and DevOps** from **IIT Roorkee**.
+
 ## 📫 How to reach me
 - 📧 Email: contact.kartickdaskd@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/kartick-das-a52161159/)
