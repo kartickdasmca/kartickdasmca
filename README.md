@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Kartick Das!
 
-🚀 I'm a Software Engineer with 7+ years of experience —  
-🔧 3.9 years as a Full Stack Developer and the last 3.4 years specializing in Frontend Development.
+🚀 I'm a Software Engineer with 7 years of experience —  
+🔧 3.9 years as a Full Stack Developer and the last 3.3 years specializing in Frontend Development.
 
 ## 💼 What I Do
 
